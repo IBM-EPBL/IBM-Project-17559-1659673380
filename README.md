@@ -40,7 +40,7 @@ This Project examines data from liver patients concentrating on relationships be
 
 | TEAM MEMBERS | FOLDER LINK    |
 | ------------- | ------------- |
-| HARIPRIYAN S  | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-17559-1659673380/tree/main/Assignments/HARIPRIYAN%20S">CLICK HERE!  </a></button>               
+| HARIPRIYAN S  | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-17559-1659673380/tree/main/Assignments/Team%20Leader%20-%20Haripriyan%20S">CLICK HERE!  </a></button>               
 | GOWTHAMAN M | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-17559-1659673380/tree/main/Assignments/GOWTHAMAN%20M">CLICK HERE!  </a> </button> |
 | MAIGOKUL P    | <button><a href="https://github.com/IBM-EPBL/IBM-Project-17559-1659673380/tree/main/Assignments/MAIGOKUL%20P">CLICK HERE!  </a> </button> |
 | GUNABHARATHI J     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-17559-1659673380/tree/main/Assignments/GUNABHARATHI%20S%20J">CLICK HERE!  </a> </button> |
