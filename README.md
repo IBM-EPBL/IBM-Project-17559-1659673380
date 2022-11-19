@@ -22,10 +22,10 @@ This Project examines data from liver patients concentrating on relationships be
 <hr>
 
 ## 🧑🏻‍🦰 TEAM MEMBERS
-- HARIPRIYAN S [Team Leader]
-- GOWTHAMAN M   
-- MAIGOKUL P
-- GUNABHARATHI J
+- Team Leader
+- Team member 1   
+- Team member 2
+- Team member 3
 
 <hr>
 
@@ -40,10 +40,10 @@ This Project examines data from liver patients concentrating on relationships be
 
 | TEAM MEMBERS | FOLDER LINK    |
 | ------------- | ------------- |
-| HARIPRIYAN S  | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-17559-1659673380/tree/main/Assignments/Team%20Leader">CLICK HERE!  </a></button>               
-| GOWTHAMAN M | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-17559-1659673380/tree/main/Assignments/Team%20Member%201">CLICK HERE!  </a> </button> |
-| MAIGOKUL P    | <button><a href="https://github.com/IBM-EPBL/IBM-Project-17559-1659673380/tree/main/Assignments/Team%20Member%202">CLICK HERE!  </a> </button> |
-| GUNABHARATHI J     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-17559-1659673380/tree/main/Assignments/Team%20Member%203">CLICK HERE!  </a> </button> |
+| TEAM LEADER  | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-17559-1659673380/tree/main/Assignments/Team%20Leader">CLICK HERE!  </a></button>               
+| TEAM MEMBER 1 | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-17559-1659673380/tree/main/Assignments/Team%20Member%201">CLICK HERE!  </a> </button> |
+| TEAM MEMBER 2    | <button><a href="https://github.com/IBM-EPBL/IBM-Project-17559-1659673380/tree/main/Assignments/Team%20Member%202">CLICK HERE!  </a> </button> |
+| TEAM MEMBER 3     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-17559-1659673380/tree/main/Assignments/Team%20Member%203">CLICK HERE!  </a> </button> |
 
 <hr>
 
